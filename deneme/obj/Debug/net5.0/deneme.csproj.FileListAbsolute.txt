@@ -1,0 +1,5 @@
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.csproj.AssemblyReference.cache
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.AssemblyInfoInputs.cache
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.AssemblyInfo.cs
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.csproj.CoreCompileInputs.cache
