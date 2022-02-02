@@ -3,3 +3,14 @@ C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.GeneratedMSBuild
 C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.AssemblyInfoInputs.cache
 C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.AssemblyInfo.cs
 C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\deneme.exe
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\deneme.deps.json
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\deneme.runtimeconfig.json
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\deneme.runtimeconfig.dev.json
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\deneme.dll
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\ref\deneme.dll
+C:\Users\Student1\Desktop\deneme\deneme\bin\Debug\net5.0\deneme.pdb
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.dll
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\ref\deneme.dll
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.pdb
+C:\Users\Student1\Desktop\deneme\deneme\obj\Debug\net5.0\deneme.genruntimeconfig.cache

@@ -34,7 +34,9 @@ namespace Usem.calisma01
             int say = Convert.ToInt32(Console.ReadLine());
             int say1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(say * say1);
+            /////--------------------------
 
+            
            
 
             

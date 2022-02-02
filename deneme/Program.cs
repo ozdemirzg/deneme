@@ -29,8 +29,9 @@ namespace deneme
             static string Proses(string g)
             {
                 //String işlemler
+                string cikisM;
                 cikisM = "Giriş :  " + g;
-                Console.WriteLine(cikisM);
+                return cikisM;
             }
             static void Cikis(string c)
             {
