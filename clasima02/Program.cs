@@ -1,4 +1,4 @@
-﻿using System;
+﻿/* using System;
 
 namespace deneme
 {
@@ -69,3 +69,82 @@ namespace deneme
 
     }
 }
+ */
+//DÜZENLEDİ SONRADAN TEKRAR
+
+ using System;
+namespace Usem.Calisma01
+{
+    class OzelProgram
+    {
+        static string ortadaDeger; // BUNU HEPSİNE ATADI.Buna bakacak griş proses ve cikis
+
+        static void Main()
+        {
+            // Giriş
+            Giris();
+
+            // İşlemler 
+            Proses();
+
+            // Çıkış işlemler
+            Cikis();
+
+        }
+
+        static void Giris()
+        {
+           
+            Console.WriteLine("Giriş Yapınız...(En Az 4 Karakter)");
+            ortadaDeger = Console.ReadLine();
+         
+            //    if (Gecerli())   //1.YOL                                                                     
+            // {
+            //     ortadaDeger = ortadaDeger;
+            // }
+            // else
+            // {
+            //     Giris();
+            // }
+      
+           if (!Gecerli())   // ! Değili demek.Kısa yoldan yazmış oldu aslında..    2.YOL
+           {   
+             Giris();
+           }
+
+        }
+        static bool Gecerli()
+        {
+            bool gecerli = true;
+
+            // uzunluk hesaplama
+            int uzunluk = ortadaDeger.Length;
+
+            // uzunluk değerlendirme
+            if (uzunluk > 3)
+            {
+                // koşul TRUE doğru ise çalıştırılır
+                gecerli = true;
+            }
+            else
+            {
+                // koşul FALSE yanlış ise çalıştırılır
+                gecerli = false;
+            }
+            return gecerli;
+        }
+
+        static void Proses()
+        {
+            // String işlemler
+            ortadaDeger = "Giriş :  " + ortadaDeger;
+        }
+
+        static void Cikis()
+        {
+            // Çıkış İşlemler
+            Console.WriteLine(ortadaDeger);
+        }
+    }
+}
+

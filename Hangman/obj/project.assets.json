@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Student1\\.nuget\\packages\\": {}
+    "C:\\Users\\Student1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student1\\Desktop\\deneme\\Hangman\\Hangman.csproj",
+      "projectUniqueName": "C:\\Users\\Student1\\Documents\\deneme\\Hangman\\Hangman.csproj",
       "projectName": "Hangman",
-      "projectPath": "C:\\Users\\Student1\\Desktop\\deneme\\Hangman\\Hangman.csproj",
+      "projectPath": "C:\\Users\\Student1\\Documents\\deneme\\Hangman\\Hangman.csproj",
       "packagesPath": "C:\\Users\\Student1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student1\\Desktop\\deneme\\Hangman\\obj\\",
+      "outputPath": "C:\\Users\\Student1\\Documents\\deneme\\Hangman\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Student1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Student1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

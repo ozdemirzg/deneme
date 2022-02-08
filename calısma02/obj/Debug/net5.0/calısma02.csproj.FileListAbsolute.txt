@@ -1,0 +1,16 @@
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\calısma02.exe
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\calısma02.deps.json
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\calısma02.runtimeconfig.json
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\calısma02.runtimeconfig.dev.json
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\calısma02.dll
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\ref\calısma02.dll
+C:\Users\Student1\Documents\deneme\calısma02\bin\Debug\net5.0\calısma02.pdb
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.csproj.AssemblyReference.cache
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.AssemblyInfoInputs.cache
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.AssemblyInfo.cs
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.csproj.CoreCompileInputs.cache
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.dll
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\ref\calısma02.dll
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.pdb
+C:\Users\Student1\Documents\deneme\calısma02\obj\Debug\net5.0\calısma02.genruntimeconfig.cache
