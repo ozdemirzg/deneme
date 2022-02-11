@@ -9,9 +9,10 @@ namespace UsemGenel
     {
         static void Main(string[] args)
         { 
-          Konsol.KonsolLog("info", "deneme olarak info....");
-          Console.WriteLine("vcvcvcc");
-          Konsol.KonsolLog("hata", "deneme olarak info....");
+           
+            System.Console.WriteLine(Konsol.ReadInt()); //bunu mainde yazdırdı
+
+
         }   
      
     }
