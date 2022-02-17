@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\UsemKutuphane.exe
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\UsemKutuphane.deps.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\UsemKutuphane.runtimeconfig.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\UsemKutuphane.runtimeconfig.dev.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\UsemKutuphane.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\ref\UsemKutuphane.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\bin\Debug\net5.0\UsemKutuphane.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.AssemblyInfo.cs
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\ref\UsemKutuphane.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\UsemKutuphane\obj\Debug\net5.0\UsemKutuphane.genruntimeconfig.cache
