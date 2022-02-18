@@ -14,7 +14,8 @@ namespace UsemKutuphane
             var k = new Kitap("Bir kitap");
             var u = new Uye("Bir uye");
 
-            kutuphane.Add(k.Id, k);
+           // kutuphane.Add(k.Id, k);
+
             Islem.Alma(k,u);
             Islem.Iade(k,u);
         }

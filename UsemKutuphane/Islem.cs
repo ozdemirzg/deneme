@@ -7,18 +7,19 @@ namespace UsemKutuphane
     {
         public static void Alma(Kitap k, Uye u)
         {
-            var ik = new IslemKayit();
-            Console.WriteLine("Ödünç alındı");
-
+            k.Uyeler.Add(u);//listeye erişebiliyorsun burada. ama ekleme yapamazsında.set private çünkü.!
+            Console.WriteLine($" {u.Ad} ödünç aldı. {k.Ad} ");
+            
         }
-
-
-
 
         public static void Iade(Kitap k, Uye u)
         {
-            Console.WriteLine("İade edildi.");
+            k.Uyeler.Remove(u);
+            Console.WriteLine($" {u.Ad} iade etti. {k.Ad}");
         }
+
+
+
 
     }
     
