@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.AssemblyInfo.cs
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\CalismaKalitimKompzisyon.exe
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\CalismaKalitimKompzisyon.deps.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\CalismaKalitimKompzisyon.runtimeconfig.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\CalismaKalitimKompzisyon.runtimeconfig.dev.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\CalismaKalitimKompzisyon.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\ref\CalismaKalitimKompzisyon.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\bin\Debug\net5.0\CalismaKalitimKompzisyon.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\ref\CalismaKalitimKompzisyon.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\CalismaKalitimKompzisyon\obj\Debug\net5.0\CalismaKalitimKompzisyon.genruntimeconfig.cache
