@@ -1,3 +1,4 @@
+using System;
 namespace CalismaKayitSistemi.Siniflar
 {
     enum CalisanBolumler
@@ -13,12 +14,22 @@ namespace CalismaKayitSistemi.Siniflar
         Sosyal
     }
 
-    class Kisi 
+    abstract class Kisi 
     {
         // public static string kurumAd;
-        protected string TcNo { get; set; }
-        protected string AdSoyad { get; set; }
 
+        //propların get set ini silip _ile yazdık isimleri.
+        protected string _tcNo; //Bunlara Mainde atama yapmayı engellemek için protected yaptık.
+        protected string _adSoyad;
+
+        //constructor ile :base olarak yazdığımızı çalıştırmayı sağladı bu kısım.
+        public Kisi(string tcNo, string adSoyad)
+        {
+            _tcNo = tcNo;
+            _adSoyad = adSoyad;
+        }
+        public abstract void KendindenBahset();
+       
     }
 
 }
