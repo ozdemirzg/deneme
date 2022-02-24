@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\W3.exe
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\W3.deps.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\W3.runtimeconfig.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\W3.runtimeconfig.dev.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\W3.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\ref\W3.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\bin\Debug\net5.0\W3.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.AssemblyInfo.cs
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\ref\W3.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\_depo\W3\obj\Debug\net5.0\W3.genruntimeconfig.cache
