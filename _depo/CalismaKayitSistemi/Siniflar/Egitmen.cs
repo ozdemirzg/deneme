@@ -1,6 +1,6 @@
 namespace CalismaKayitSistemi.Siniflar
 {
-    class Egitmen : Calisan
+    class Egitmen : Calisan, IkBahseden
     {
         public EgitmenBolum _bolum;
         //ctor

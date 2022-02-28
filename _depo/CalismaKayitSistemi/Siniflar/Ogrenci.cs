@@ -3,7 +3,8 @@ using System.Collections.Generic;
 
 namespace CalismaKayitSistemi.Siniflar
 {
-    class Ogrenci : Kisi
+     
+    class Ogrenci : Kisi, IkBahseden
     {
         //Kisi kisi;
         private string _no; // field ile öğrenci no yu değişime kapadım dışardan.(kapsülleme bu)

@@ -2,7 +2,7 @@ using System;
 
 namespace CalismaKayitSistemi.Siniflar
 {
-    class Calisan : Kisi
+    class Calisan : Kisi, IkBahseden
     {
          private string _sgkNo; //prop bu
 

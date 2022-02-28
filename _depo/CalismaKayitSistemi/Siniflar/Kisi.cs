@@ -1,19 +1,7 @@
 using System;
 namespace CalismaKayitSistemi.Siniflar
 {
-    enum CalisanBolumler
-    {
-        Yemek,
-        Temizlik,
-        İdari
-    }
-     enum EgitmenBolum
-    {
-        Fen,
-        Matematik,
-        Sosyal
-    }
-
+    
     abstract class Kisi 
     {
         // public static string kurumAd;

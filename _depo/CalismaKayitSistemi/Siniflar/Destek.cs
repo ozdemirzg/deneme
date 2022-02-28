@@ -1,6 +1,6 @@
 namespace CalismaKayitSistemi.Siniflar
 {
-    class Destek : Calisan
+    class Destek : Calisan, IkBahseden
     {
         private CalisanBolumler _bolum { get; set; }  //enum tanımladığımız enumdan yazacağımız için bölümler dedik.
         //ctor

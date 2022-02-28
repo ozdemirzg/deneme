@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\AlgoritmaOrnekleri.exe
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\AlgoritmaOrnekleri.deps.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\AlgoritmaOrnekleri.runtimeconfig.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\AlgoritmaOrnekleri.runtimeconfig.dev.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\AlgoritmaOrnekleri.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\ref\AlgoritmaOrnekleri.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\bin\Debug\net5.0\AlgoritmaOrnekleri.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.AssemblyInfo.cs
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\ref\AlgoritmaOrnekleri.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\AlgoritmaOrnekleri\obj\Debug\net5.0\AlgoritmaOrnekleri.genruntimeconfig.cache
