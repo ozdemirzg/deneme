@@ -6,11 +6,10 @@ namespace AlgoritmaOrnekleri
     {
         static void  Main(string[] args)
         {
-            
-            
+         System.Console.WriteLine( "3 sayı giriniz..");
 
-         
         }
+
 
     }
 }
