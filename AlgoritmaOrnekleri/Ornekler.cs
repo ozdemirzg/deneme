@@ -166,6 +166,18 @@ namespace AlgoritmaOrnekleri
          {
             
          }
+         public static void PozitifBolen()
+         {
+            System.Console.WriteLine( "sayı giriniz..");
+          int x=Convert.ToInt32(Console.ReadLine());
+          for (int i = 1; i <=x ; i++)
+          {
+              if (x%i==0)
+              {
+                 System.Console.WriteLine(i+ "'e tam bölünür.."); 
+              }
+          }
+         }
     }
 
 }
