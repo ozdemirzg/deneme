@@ -14,6 +14,7 @@ namespace Odev1
             Metin metin = new Metin();
             
             List<string> girisler =new List<string>();
+            
             do
             {
                 giris = Console.ReadLine();

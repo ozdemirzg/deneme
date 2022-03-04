@@ -6,6 +6,7 @@ namespace KisiNakit
     {
         static void Main(string[] args)
         {
+        
 
             Casino();
             // BorcAlVer();

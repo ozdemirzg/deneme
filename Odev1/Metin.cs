@@ -56,7 +56,7 @@ namespace Odev1
                    }
                }
            }
-                       System.Console.WriteLine(sessizTotal);
+              Console.WriteLine(sessizTotal);
 
 
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Odev1\\Odev1.csproj",
-      "projectName": "Odev1",
-      "projectPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Odev1\\Odev1.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Banka\\Banka.csproj",
+      "projectName": "Banka",
+      "projectPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Banka\\Banka.csproj",
       "packagesPath": "C:\\Users\\STUDENT2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Odev1\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Banka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
