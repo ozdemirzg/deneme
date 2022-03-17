@@ -8,11 +8,11 @@ namespace Kart
      public Tip Tip { get; set; }
      public Deger Deger { get; set; }
 
-       public Kart(Tip tip, Deger deger)
-       {
-           Deger=deger;
-           Tip=tip;
-       }
+    //    public Kart(Tip tip, Deger deger)
+    //    {
+    //        Deger=deger;
+    //        Tip=tip;
+    //    }
         public int CompareTo(Kart KartKiyaslama)
         {
             if (this.Deger > KartKiyaslama.Deger)

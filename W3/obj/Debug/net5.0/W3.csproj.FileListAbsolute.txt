@@ -1,0 +1,5 @@
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\W3\obj\Debug\net5.0\W3.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\W3\obj\Debug\net5.0\W3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\W3\obj\Debug\net5.0\W3.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\W3\obj\Debug\net5.0\W3.AssemblyInfo.cs
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\W3\obj\Debug\net5.0\W3.csproj.CoreCompileInputs.cache

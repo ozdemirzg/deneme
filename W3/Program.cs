@@ -1,12 +1,6 @@
 ﻿using System;
-
-namespace W3
+public class Kata
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+
+    
 }

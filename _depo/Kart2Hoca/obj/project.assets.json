@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\W3\\W3.csproj",
-      "projectName": "W3",
-      "projectPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\W3\\W3.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Kart2Hoca\\Kart2Hoca.csproj",
+      "projectName": "Kart2Hoca",
+      "projectPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Kart2Hoca\\Kart2Hoca.csproj",
       "packagesPath": "C:\\Users\\STUDENT2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\W3\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT2\\Documents\\OyunKursŞubat\\deneme\\Kart2Hoca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

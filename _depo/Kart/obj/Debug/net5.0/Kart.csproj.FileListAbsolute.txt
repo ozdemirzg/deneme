@@ -1,0 +1,16 @@
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\bin\Debug\net5.0\Kart.exe
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\bin\Debug\net5.0\Kart.deps.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\bin\Debug\net5.0\Kart.runtimeconfig.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\bin\Debug\net5.0\Kart.runtimeconfig.dev.json
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\bin\Debug\net5.0\Kart.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\bin\Debug\net5.0\Kart.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.AssemblyInfoInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.AssemblyInfo.cs
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\refint\Kart.dll
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.pdb
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\Kart.genruntimeconfig.cache
+C:\Users\STUDENT2\Documents\OyunKursŞubat\deneme\Kart\obj\Debug\net5.0\ref\Kart.dll
